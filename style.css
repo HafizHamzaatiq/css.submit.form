@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+input{
+    margin: 30px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    width: 300px;
+background: transparent;
+color: aliceblue;
+}
+input:hover{
+border-color: rgb(250, 60, 12);
+}
+
+label{
+    margin-right: 200px;
+    color:aqua; 
+}
+.para1
+{
+    margin-right: 175px;
+    color:aqua;  
+}
+.para2{
+    margin-right: 175px;
+    color:aqua;   
+}
+button{
+    margin-right: 85px;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-weight: bold;
+    outline: none;
+    box-shadow: none;
+    border-radius: 15px 15px;
+    padding-top: 5px;
+    width: 80px;
+    text-align: center;
+    padding-bottom: 5px;
+
+
+
+}
+h1{
+    color:aqua;
+    font-style: italic;
+
+    
+}
+label:hover{
+    color: azure;
+}
